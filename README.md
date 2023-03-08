@@ -2,7 +2,19 @@
 
 介绍Numpy，Matplotlib，Pandas，Scikit-learn常用的Python包
 
-## 1.Scikit-learn
+## 1.Numpy
+
+官方文档：https://numpy.org/
+
+Numpy：python 科学计算基础库，是 Scipy、Pandas 等数据处理或科学计库的基础。
+
+
+
+
+
+
+
+## 4.Scikit-learn
 
 官方英文文档：https://scikit-learn.org/stable/
 
