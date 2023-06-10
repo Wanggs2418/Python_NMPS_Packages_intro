@@ -4,6 +4,8 @@
 
 前三个包的基础入门参照：[北京理工大学慕课视频(b站搬运版)](https://www.bilibili.com/video/BV1L64y1X7om?p=1&vd_source=412ee9f1892496b8506f8302ac9d1437)
 
+增添 stanford(CS231n)：[Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy)
+
 ## 1.Numpy
 
 官方文档：https://numpy.org/
@@ -32,7 +34,17 @@ API：https://pandas.pydata.org/docs/reference/index.html
 
 
 
-## 4.Scikit-learn
+## 4.Scipy
+
+官方英文文档：https://docs.scipy.org/doc/scipy/reference/index.html
+
+斯坦福快速入门教程：https://cs231n.github.io/python-numpy-tutorial/#numpy
+
+
+
+
+
+## 5.Scikit-learn
 
 官方英文文档：https://scikit-learn.org/stable/
 

@@ -1,5 +1,9 @@
 # Numpy_intro
 
+> 斯坦福的 [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy)
+>
+> 熟悉 Matlab 的 [Numpy 入门指南](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
+
 ```python
 import numpy as np
 ```
